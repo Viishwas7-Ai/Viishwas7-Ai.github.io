@@ -29,3 +29,17 @@ Have ideas or found a bug? Join our community!
 4.  **First Launch:** Right-click the app in your Applications folder and select "Open" to bypass the security warning. You only need to do this once.
 
 ---
+## ⚠️ Model Usage Notice
+
+This beta version of **Enclyra AI Assistant** includes models such as:
+
+- `openhermes:latest` (LLaMA-based)
+- `Qwen` (QWER)
+- Others: DeepSeek, Phi-3, etc.
+
+These models are used **only for research, testing, and evaluation purposes** during the **free beta phase**. No part of this application may be used for commercial or production use unless the models are replaced with commercially-permissive alternatives.
+
+If you support the project via a founder’s pack, you still receive the **same free beta version** as all users. Your donation supports future development and **does not constitute a commercial transaction** for the AI models.
+
+We plan to replace these models in the upcoming **v1.x commercial release** with fully commercial-safe alternatives like `Gemma`, `Mistral`, `DeepSeek`, etc.
+---
